@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://rajinipu.github.io/atom.xml" rel="self"/>
   <link href="http://rajinipu.github.io/"/>
-  <updated>2014-11-03T11:07:32-05:00</updated>
+  <updated>2014-11-16T22:49:49-05:00</updated>
   <id>http://rajinipu.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Comparision of Big Data Technologies]]></title>
+    <link href="http://rajinipu.github.io/blog/2014/11/16/comparision-of-big-data-technologies/"/>
+    <updated>2014-11-16T22:46:36-05:00</updated>
+    <id>http://rajinipu.github.io/blog/2014/11/16/comparision-of-big-data-technologies</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rajini]]></title>
+    <link href="http://rajinipu.github.io/blog/2014/11/03/rajini/"/>
+    <updated>2014-11-03T13:05:49-05:00</updated>
+    <id>http://rajinipu.github.io/blog/2014/11/03/rajini</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>

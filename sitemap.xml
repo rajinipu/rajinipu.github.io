@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://rajinipu.github.io/blog/2014/11/16/comparision-of-big-data-technologies/</loc>
+    <lastmod>2014-11-16T22:46:36-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://rajinipu.github.io/blog/2014/11/03/rajini/</loc>
+    <lastmod>2014-11-03T13:05:49-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://rajinipu.github.io/blog/archives/</loc>
-    <lastmod>2014-11-03T11:07:32-05:00</lastmod>
+    <lastmod>2014-11-16T22:49:49-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://rajinipu.github.io/</loc>
-    <lastmod>2014-11-03T11:07:32-05:00</lastmod>
+    <lastmod>2014-11-16T22:49:49-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://rajinipu.github.io/flecher/</loc>
+    <lastmod>2014-11-16T22:49:49-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
